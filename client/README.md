@@ -54,7 +54,3 @@ Run tool <b>JSDOC</b> for generate documentation about the proyect, folder in `/
 ### `npm run see-docs`
 
 A shortcut to open result of <b>docs.</b>
-
-### npm run cypress
-
-A shortcut to open <b>Cypress.</b>
