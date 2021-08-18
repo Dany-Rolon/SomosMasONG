@@ -6,7 +6,7 @@ Durante la aceleración de Alkemy, participe en el desarrollo de esta página we
 También, darles la posibilidad a los administradores de tener las herramientas necesarias para gestionarla, de forma cómoda e intuitiva.
 
 ## ¿Aceleracion de Alkemy?
-Podes conocer sobre la aceleración de [Alkemy]('http://alkemy.org/') en su página
+Podes conocer sobre la aceleración de [Alkemy](http://alkemy.org/) en su página
 
 ## Tecnologias utilizadas
 
